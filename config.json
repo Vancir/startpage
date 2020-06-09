@@ -3,48 +3,46 @@
     { "name": "media",
       "color": "red",
       "links": [
-        { "name": "Spotify", "url": "https://open.spotify.com/" },
-        { "name": "YoutubeMusic", "url": "https://music.youtube.com/" },
-        { "name": "Netflix", "url": "https://netflix.com" },
-        { "name": "Youtube", "url": "https://youtube.com" }
+        { "name": "Bilibili", "url": "https://bilibili.com" },
+        { "name": "Youtube", "url": "https://youtube.com" },
+        { "name": "Spotify", "url": "https://open.spotify.com" }
       ]
     },
     { "name": "work",
       "color": "#26A69A",
       "links": [
         { "name": "Github", "url": "https://github.com" },
-        { "name": "Heroku", "url": "http://heroku.com/" },
-        { "name": "localhost", "url": "http://localhost:8000/" }
+	{ "name": "Blog", "url": "https://vancir.com" }
+
       ]
     },
     { "name": "social",
       "links": [
-        { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "Unixporn Love", "url": "https://deepjyoti30.github.io/unixporn-love/" },
-        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" },
-        { "name": "r/mk", "url": "https://www.reddit.com/r/MechanicalKeyboards/" }
+        { "name": "Wechat", "url": "https://wx.qq.com" },
+        { "name": "Twitter", "url": "https://www.twitter.com" },
+        { "name": "Weibo", "url": "https://www.weibo.com" },
+        { "name": "V2ex", "url": "https://www.v2ex.com" }
       ]
     },
     {
       "name": "Others",
       "links": [
-        {"name": "Material Colors", "url": "http://materialuicolors.co/"},
-        {"name": "Gmail", "url": "http://gmail.com/"},
-        {"name": "neo4j Local", "url": "http://localhost:7474/"},
-        {"name": "rarbg", "url": "http://rarbg.to"}
+        {"name": "Gmail", "url": "http://gmail.com"},
+        {"name": "QQMail", "url": "https://mail.qq.com"},
+        {"name": "Feedly", "url": "http://www.feedly.com"}
       ]
     }
   ],
-  "searchEngine":"DuckDuckGo",
-  "user": "Deepjyoti",
+  "searchEngine":"Google",
+  "user": "Vancir",
   "disableMessage": false,
   "disableDate": false,
   "disableSearchBar": false,
   "disable24Hour": false,
   "disableWeather": true,
-  "timeZone": "America/Los_Angeles",
+  "timeZone": "China/Shanghai",
   "weatherConf": {
-    "location": "Pune India",
+    "location": "Beijing",
     "unit": "cel"
   }
 }
